@@ -6,7 +6,7 @@
 	<body>
 		<div id="page-wrapper">
 			<div id="header">
-				<h1>Header</h1>
+				<h1>Capstone Project <small>An Inventory Tracking System</small></h1>
 			</div>
 			<div id="sidebar">
 				<h2 class="title">Pages</h2>
